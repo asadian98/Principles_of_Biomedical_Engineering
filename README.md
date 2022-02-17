@@ -1,2 +1,5 @@
-# Principles_of_Biomedical_Engineering
-Designed homework for Cell Potential, Action Potential, and H-H model
+# Cell Potential, Action Potential, and H-H model
+
+Designed homework for Cell Potential (HW2), Action Potential, and H-H model (HW3)
+
+Instructor: Dr. Ali Ghazizadeh; Fall 2021
